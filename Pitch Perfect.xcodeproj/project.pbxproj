@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		92385DE61C55E229003B3F5C /* movie_quote.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 92385DE51C55E229003B3F5C /* movie_quote.mp3 */; };
 		92385DE81C55F315003B3F5C /* RecordedAudio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92385DE71C55F315003B3F5C /* RecordedAudio.swift */; };
 		92D275631C5331F900D93680 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D275621C5331F900D93680 /* AppDelegate.swift */; };
 		92D275651C5331F900D93680 /* RecordSoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92D275641C5331F900D93680 /* RecordSoundsViewController.swift */; };
@@ -18,7 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		92385DE51C55E229003B3F5C /* movie_quote.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = movie_quote.mp3; path = ../../../Downloads/movie_quote.mp3; sourceTree = "<group>"; };
 		92385DE71C55F315003B3F5C /* RecordedAudio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecordedAudio.swift; sourceTree = "<group>"; };
 		92D2755F1C5331F900D93680 /* Pitch Perfect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pitch Perfect.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		92D275621C5331F900D93680 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			isa = PBXGroup;
 			children = (
 				92D275621C5331F900D93680 /* AppDelegate.swift */,
-				92385DE51C55E229003B3F5C /* movie_quote.mp3 */,
 				92D275641C5331F900D93680 /* RecordSoundsViewController.swift */,
 				92D275661C5331F900D93680 /* Main.storyboard */,
 				92D275691C5331F900D93680 /* Assets.xcassets */,
@@ -133,7 +130,6 @@
 			files = (
 				92D2756D1C5331F900D93680 /* LaunchScreen.storyboard in Resources */,
 				92D2756A1C5331F900D93680 /* Assets.xcassets in Resources */,
-				92385DE61C55E229003B3F5C /* movie_quote.mp3 in Resources */,
 				92D275681C5331F900D93680 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

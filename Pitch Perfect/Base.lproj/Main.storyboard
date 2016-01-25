@@ -162,16 +162,16 @@
                                 <exclude reference="Jfe-Mv-1dh"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="KxN-s6-dJA"/>
-                                <exclude reference="yXa-c4-v77"/>
-                                <exclude reference="RD6-S9-Alu"/>
-                                <exclude reference="hjK-iJ-Wpj"/>
-                                <exclude reference="Dvj-Xn-GxN"/>
-                                <exclude reference="9tp-x5-TjW"/>
-                                <exclude reference="tKl-of-u58"/>
                                 <exclude reference="30a-bT-7JJ"/>
                                 <exclude reference="6yX-G7-8N0"/>
                                 <exclude reference="yom-Wg-VJ9"/>
+                                <exclude reference="9tp-x5-TjW"/>
+                                <exclude reference="RD6-S9-Alu"/>
+                                <exclude reference="hjK-iJ-Wpj"/>
+                                <exclude reference="tKl-of-u58"/>
+                                <exclude reference="Dvj-Xn-GxN"/>
+                                <exclude reference="KxN-s6-dJA"/>
+                                <exclude reference="yXa-c4-v77"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -183,16 +183,16 @@
                                 <include reference="Jfe-Mv-1dh"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="KxN-s6-dJA"/>
-                                <include reference="yXa-c4-v77"/>
-                                <include reference="RD6-S9-Alu"/>
-                                <include reference="hjK-iJ-Wpj"/>
-                                <include reference="Dvj-Xn-GxN"/>
-                                <include reference="9tp-x5-TjW"/>
-                                <include reference="tKl-of-u58"/>
                                 <include reference="30a-bT-7JJ"/>
                                 <include reference="6yX-G7-8N0"/>
                                 <include reference="yom-Wg-VJ9"/>
+                                <include reference="9tp-x5-TjW"/>
+                                <include reference="RD6-S9-Alu"/>
+                                <include reference="hjK-iJ-Wpj"/>
+                                <include reference="tKl-of-u58"/>
+                                <include reference="Dvj-Xn-GxN"/>
+                                <include reference="KxN-s6-dJA"/>
+                                <include reference="yXa-c4-v77"/>
                             </mask>
                         </variation>
                     </view>
